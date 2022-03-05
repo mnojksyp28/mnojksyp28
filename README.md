@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Kashyap</h1>
-<h3 align="center">An ece undergrad having knap in computer programming</h3>
+<h3 align="center">An Ece undergrad having knap in computer programming</h3>
 
 - 🔭 I’m currently working on **Frontend Framework**
 
