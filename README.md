@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Manoj Kashyap and I'm a Software Engineer from Patna,Bihar.</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="146" src="https://cdn.pixabay.com/photo/2016/03/31/18/27/coding-1294373_640.png"  />
 
 ###
 
